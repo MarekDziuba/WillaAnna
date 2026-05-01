@@ -19,7 +19,7 @@
 
     <div class="col col-sm-4">
       <h3>Lokalizacja</h3>
-      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d20638.75563419953!2d18.815202!3d49.71373!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47141bf4aa17c4bf%3A0x288cabaee5530942!2sMiko%C5%82aja%20Reja%208%2C%2043-450%20Ustro%C5%84%2C%20Poland!5e0!3m2!1sen!2sus!4v1771329403199!5m2!1sen!2sus" width="90%" height="75%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d29187.60145585185!2d18.790206338363696!3d49.713741102775245!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47141bf4aa17c4bf%3A0x288cabaee5530942!2sMiko%C5%82aja%20Reja%208%2C%2043-450%20Ustro%C5%84%2C%20Poland!5e0!3m2!1sen!2sus!4v1775661369719!5m2!1sen!2sus" width="90%" height="75%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 
     <div class="col col-sm-4">
@@ -36,4 +36,13 @@
     </div>
 
   </div>
+</div>
+
+
+
+<div id="cb-cookie-banner" class="alert alert-dark text-center mb-0" role="alert">
+🍪 Klikając „OK”, wyrażasz zgodę na przechowywanie plików cookie na Twoim urządzeniu w celu usprawnienia nawigacji w witrynie, analizy wykorzystania witryny i poprawy marketingu.
+<button type="button" class="btn btn-primary btn-sm ms-3" onclick="window.cb_hideCookieBanner()">
+Ok
+</button>
 </div>
